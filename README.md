@@ -1,2 +1,4 @@
 # test1_js
-create new fileしたお
+~1.create new fileしたお~
+
+~2.このファイルを編集した~
